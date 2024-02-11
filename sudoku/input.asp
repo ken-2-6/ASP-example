@@ -1,0 +1,24 @@
+#const n=3.
+assign(1,2,2).
+assign(1,4,8).
+assign(1,6,4).
+assign(1,8,9).
+assign(1,9,7).
+assign(2,1,3).
+assign(2,4,2).
+assign(3,8,1).
+assign(4,2,3).
+assign(4,6,9).
+assign(4,8,2).
+assign(4,9,4).
+assign(5,7,8).
+assign(6,3,5).
+assign(6,5,6).
+assign(7,2,7).
+assign(7,7,1).
+assign(8,6,8).
+assign(8,7,3).
+assign(9,1,6).
+assign(9,5,9).
+assign(9,8,7).
+assign(9,9,8).
